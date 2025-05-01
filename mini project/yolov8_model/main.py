@@ -16,7 +16,7 @@ GREEN = (0, 255, 0)
 global count
 
 main = tkinter.Tk()
-main.title("Using Existing CCTV Network for Crowd Management, Crime Prevention & Work Monitoring using AI & ML") #designing main screen
+main.title("Detection of Crowd Management & Work Monitoring using AIML") #designing main screen
 main.geometry("1300x1200")
 
  
