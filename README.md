@@ -9,6 +9,13 @@ Crowd Management: Monitor crowd density and movement in real-time using visual i
 
 Work Monitoring: Observe workplace activities for compliance and efficiency improvements.
 
+
+# Install required libraries
+pip install ultralytics
+pip install opencv-python
+pip install matplotlib
+pip install numpy
+
 How to Use the Application:
 Launch the GUI: Run the Python script. The main interface will open.
 
