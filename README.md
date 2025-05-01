@@ -12,8 +12,11 @@ Work Monitoring: Observe workplace activities for compliance and efficiency impr
 
 # Install required libraries
 pip install ultralytics
+
 pip install opencv-python
+
 pip install matplotlib
+
 pip install numpy
 
 How to Use the Application:
